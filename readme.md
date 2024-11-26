@@ -1,1 +1,1 @@
-my first own application
+my first own app
