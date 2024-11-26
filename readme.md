@@ -1,1 +1,1 @@
-my first application v1
+my first application
